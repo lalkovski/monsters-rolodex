@@ -6,7 +6,19 @@
     grid-gap: 1.1vw;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1300px) {
+    .card-list {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (max-width: 950px) {
+    .card-list {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 600px) {
     .card-list {
         display: inline;
     }
