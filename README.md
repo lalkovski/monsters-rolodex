@@ -1,7 +1,7 @@
 # Monsters Rolodex
 
 The first project in the Zero to Mastery React Course on Udemy.<br/>
-A simple React web app complete with a search feature. Mobile optimized.
+A simple React web app complete with a search feature. Mobile optimized.<br/>
 https://lalkovski.github.io/monsters-rolodex/
 
 ## Screenshots
